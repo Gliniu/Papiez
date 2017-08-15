@@ -13,7 +13,7 @@
   pause      = "Pauses & resumes the song"
   play       = "Adds a song to the queue and begins playing"
   queue      = "Shows the song queue"
-  radio      = "Streams radio stations"
+  radioplay  = "Streams radio stations"
   remove     = "Removes a song from the queue"
   reorder    = "Changes the position of a song in the queue"
   repeat     = "Loops the current song"
